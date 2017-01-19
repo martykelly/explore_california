@@ -2,11 +2,15 @@
 index.sublime-workspace
 *.txt
 .DS_Store
+.Trashes
 *.zip
 *.gz
+*.7z
+*.dmg
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+
 
